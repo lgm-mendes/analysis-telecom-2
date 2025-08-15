@@ -1,4 +1,4 @@
-# 📊 Previsão de Churn de Clientes – Telecom X
+# 📊 Previsão de Churn de Clientes – Telecom
 
 ## 🎯 Propósito da Análise
 
